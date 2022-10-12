@@ -12,16 +12,14 @@ export function Heading({ size = "md", children, asChild }: HeadingProps) {
   const Comp = asChild ? Slot : "h2";
 
   return (
-    <>
-      <Comp
-        className={clsx("text-grey-100 font-bold font-sans", {
-          "text-lg": size === "sm",
-          "text-xl": size === "md",
-          "text-2xl": size === "lg",
-        })}
-      >
-        {children}
-      </Comp>
-    </>
+    <Comp
+      className={clsx("text-grey-100 font-bold font-sans", {
+        "text-lg": size === "sm",
+        "text-xl": size === "md",
+        "text-2xl": size === "lg",
+      })}
+    >
+      {children}
+    </Comp>
   );
 }
