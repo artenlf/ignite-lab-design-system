@@ -15,9 +15,9 @@ This project was part of a 3-day boot camp by Rocketseat, as a way to allow fron
 | ------------- | --- |
 | Name        | **Ignite Lab Design System** |
 | Technologies | Vite, React, Storybook, Tailwind, Jest, a11y, Axios, MSW |
-| Storybook Deployment | [https://artenlf.github.io/ignite-lab-design-system/] |
-| Sign In page Deployment | [https://ignite-lab-design-system-roan.vercel.app/] |
-| Figma Prototype      | [https://shorturl.at/lqPRV]  |
+| Storybook Deployment | https://artenlf.github.io/ignite-lab-design-system/ |
+| Sign In page Deployment | https://ignite-lab-design-system-roan.vercel.app/ |
+| Figma Prototype      | https://shorturl.at/lqPRV  |
 
 ## Screenshots
 
@@ -27,9 +27,13 @@ This project was part of a 3-day boot camp by Rocketseat, as a way to allow fron
 
 ### Storybook
 
+#### #1
+
 ![Storybook Interface screenshot](https://i.imgur.com/6unY5rf.png)
 
-![[Storybook Interface screenshot](https://i.imgur.com/dvskF1N.png)
+#### #2
+
+![Storybook Interface screenshot](https://i.imgur.com/dvskF1N.png)
 
 ---
 
