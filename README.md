@@ -2,7 +2,7 @@
 
 ---
 
-### \_[Portuguese Version](#Português)
+### [Portuguese Version](#Português)
 
 ## Overview
 
@@ -11,23 +11,25 @@
 This project was part of a 3-day boot camp by Rocketseat, as a way to allow frontend students to work with state-of-the-art tools and get to know how to build and manage a Design System. On day one, developers designed a prototype using Figma, then coded it using technologies such as Vite, React, Typescript, Tailwind CSS, and Storybook itself. Having our Design System ready, then coded a Sign In page, applied unit testing, accessibility testing, and mock HTTP requests using Axios + Mock Service Worker.
 
 <!-- prettier-ignore -->
-|Name                       |**Ignite Lab Design System**                                |
-|Technologies               |Vite, React, Storybook, Tailwind, Jest, a11y, Axios, MSW    |
-|Storybook Deployment       |https://artenlf.github.io/ignite-lab-design-system/         |
-|Sign In page Deployment    |https://ignite-lab-design-system-roan.vercel.app/           |
-|Figma Prototype            |https://shorturl.at/lqPRV                                   |
+|  |     |
+| ------------- | --- |
+| Name        | **Ignite Lab Design System** |
+| Technologies | Vite, React, Storybook, Tailwind, Jest, a11y, Axios, MSW |
+| Storybook Deployment | [https://artenlf.github.io/ignite-lab-design-system/] |
+| Sign In page Deployment | [https://ignite-lab-design-system-roan.vercel.app/] |
+| Figma Prototype      | [https://shorturl.at/lqPRV]  |
 
 ## Screenshots
 
 ### Sign In
 
-![]https://imgur.com/Idi3uxs
+![](https://imgur.com/Idi3uxs)
 
 ### Storybook
 
-![]https://imgur.com/6unY5rf
+![](https://imgur.com/6unY5rf)
 
-![]https://imgur.com/dvskF1N
+![](https://imgur.com/dvskF1N)
 
 ---
 
