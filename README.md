@@ -23,13 +23,13 @@ This project was part of a 3-day boot camp by Rocketseat, as a way to allow fron
 
 ### Sign In
 
-![](https://imgur.com/Idi3uxs)
+![Sign In page screenshot](https://i.imgur.com/Idi3uxs.png)
 
 ### Storybook
 
-![](https://imgur.com/6unY5rf)
+![Storybook Interface screenshot](https://i.imgur.com/6unY5rf.png)
 
-![](https://imgur.com/dvskF1N)
+![[Storybook Interface screenshot](https://i.imgur.com/dvskF1N.png)
 
 ---
 
