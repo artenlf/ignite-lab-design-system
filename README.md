@@ -1,8 +1,23 @@
 # ignite-lab-design-system
 
+### For [English Version](#English) click here.
+
+**Ignite lab Design System** é um pequeno Design System que utiliza o Storybook para criar e gerenciar, dentro de um ambiente isolado, componentes de UI, páginas e guias de estilo, testes, melhorias de acessibilidade e solicitações HTTP simuladas.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **ignite-lab-design-system**
+| :label: Tecnologias | typescript, react, vite, storybook
+| :rocket: URL         | https://artenlf.github.io/ignite-lab-design-system/
+| :fire: Desafio     | https://shorturl.at/lqPRV
+
+![](https://i.imgur.com/6unY5rf.png#vitrinedev)
 ---
 
-### [Portuguese Version](#Português)
+### Detalhes do projeto
+Este projeto fez parte de um boot camp de 3 dias da Rocketseat, como forma de permitir aos alunos de frontend que trabalhassem com ferramentas de última geração, ao construir e gerenciar um Design System. No primeiro dia, os desenvolvedores projetaram um protótipo usando o Figma e o codificaram usando tecnologias como Vite, React, Typescript, Tailwind CSS, Radix UI e o próprio Storybook. Com nosso Design System pronto, codificamos uma página de login, aplicamos testes unitários, testes de acessibilidade e solicitações HTTP simuladas, usando Axios + Mock Service Worker.
+
+## English Version
 
 ## Overview
 
@@ -36,11 +51,3 @@ This project was part of a 3-day boot camp by Rocketseat, as a way to allow fron
 ![Storybook Interface screenshot](https://i.imgur.com/dvskF1N.png)
 
 ---
-
-## Português
-
-## Visão Geral
-
-**Ignite lab Design System** é um pequeno Design System que utiliza o Storybook para criar e gerenciar, dentro de um ambiente isolado, componentes de UI, páginas e guias de estilo, testes, melhorias de acessibilidade e solicitações HTTP simuladas.
-
-Este projeto fez parte de um boot camp de 3 dias da Rocketseat, como forma de permitir aos alunos de frontend que trabalhassem com ferramentas de última geração, ao construir e gerenciar um Design System. No primeiro dia, os desenvolvedores projetaram um protótipo usando o Figma e o codificaram usando tecnologias como Vite, React, Typescript, Tailwind CSS, Radix UI e o próprio Storybook. Com nosso Design System pronto, codificamos uma página de login, aplicamos testes unitários, testes de acessibilidade e solicitações HTTP simuladas, usando Axios + Mock Service Worker.
