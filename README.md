@@ -17,7 +17,7 @@
 ### Detalhes do projeto
 Este projeto fez parte de um boot camp de 3 dias da Rocketseat, como forma de permitir aos alunos de frontend que trabalhassem com ferramentas de última geração, ao construir e gerenciar um Design System. No primeiro dia, os desenvolvedores projetaram um protótipo usando o Figma e o codificaram usando tecnologias como Vite, React, Typescript, Tailwind CSS, Radix UI e o próprio Storybook. Com nosso Design System pronto, codificamos uma página de login, aplicamos testes unitários, testes de acessibilidade e solicitações HTTP simuladas, usando Axios + Mock Service Worker.
 
-## English Version
+## English
 
 ## Overview
 
