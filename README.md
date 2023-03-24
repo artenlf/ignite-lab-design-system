@@ -1,6 +1,6 @@
 # ignite-lab-design-system
 
-### For [English Version](#English) click here.
+### [For English Version click here.](#English)
 
 **Ignite lab Design System** é um pequeno Design System que utiliza o Storybook para criar e gerenciar, dentro de um ambiente isolado, componentes de UI, páginas e guias de estilo, testes, melhorias de acessibilidade e solicitações HTTP simuladas.
 
