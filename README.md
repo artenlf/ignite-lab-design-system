@@ -6,7 +6,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **ignite-lab-design-system**
+| :sparkles: Nome        | **Design System**
 | :label: Tecnologias | typescript, react, vite, storybook
 | :rocket: URL         | https://artenlf.github.io/ignite-lab-design-system/
 | :fire: Desafio     | https://shorturl.at/lqPRV
